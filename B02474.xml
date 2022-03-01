@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The crimes and treasons of Archibald Johnston, Laird Wariston. One of the grandees of the Scotch rebels and president of the late Committee of Safety under Lambert now condemned, and to be executed at Edenburgh Wednesday July 22.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02474</idno>
+            <idno type="STC">Wing C6911C</idno>
+            <idno type="STC">ESTC R174302</idno>
+            <idno type="EEBO-CITATION">52612110</idno>
+            <idno type="OCLC">ocm 52612110</idno>
+            <idno type="VID">179391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179391)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2787:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The crimes and treasons of Archibald Johnston, Laird Wariston. One of the grandees of the Scotch rebels and president of the late Committee of Safety under Lambert now condemned, and to be executed at Edenburgh Wednesday July 22.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warriston, Archibald Johnston, --  Lord, 1611-1663.</term>
+               <term>Treason --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179391:1"/>
+            <pb facs="tcp:179391:1" rendition="simple:additions"/>
+            <p>THE CRIMES AND TREASONS OF <hi>ARCHIBALD JOHNSTON,</hi> Laird <hi>WARISTON.</hi>
+            </p>
+            <p>One of the Grandees of the SCOTCH REBELS And Preſident of the late Committee of SAFETY under LAMBERT Now condemned, and to be executed at <hi>Eden<g ref="char:EOLunhyphen"/>burgh</hi> Wedneſday <hi>July</hi> 22.</p>
+            <q xml:lang="lat">
+               <l>Rarò antecedentem ſceleſtum</l>
+               <l>Deſeruit pede poena claudo.</l>
+               <bibl>Horat.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. R.</hi> 1663.</p>
+            <pb facs="tcp:179391:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:179391:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179391:3"/>
+            <pb n="3" facs="tcp:179391:3"/>
+            <head>THE CRIMES <hi>&amp;</hi> TREASONS OF <hi>ARCHIBALD JOHNSTON, Laird Wariſton,</hi> &amp;c.</head>
+            <p>THe Deſerved Fate of this Diſloyal and perfidious Politicians, which hath ſuch an aſpect upon the late Uſurpati<g ref="char:EOLhyphen"/>on, and the juſtice and happineſſe of theſe Times, doth ſo well deſerve a Memorial, though in a ſummary and ſhort account, (and that for the Honour alſo of his Country, which doth hereby expiate the remaining guilt of that Re<g ref="char:EOLhyphen"/>ligious and pious Rebellion, begun and foſtred by the reſt of this mans Complices) that it is a requi<g ref="char:EOLhyphen"/>ſite duty to the publick to particularize the practiſes of this puny <hi>Matchiavil,</hi> during our late and horri<g ref="char:EOLhyphen"/>ble Confuſions; following the method and traces of divine Vengeance, that hath ſingled him ſo remark<g ref="char:EOLhyphen"/>ably out, and delivered him tot the Laws, that the
+<pb n="4" facs="tcp:179391:4"/>world may know, and fear, and tremble, at the un<g ref="char:EOLhyphen"/>evitable and righteous recompence of wicked men.</p>
+            <p>Of all perſons, who according to Scripture phraſe, may be ſaid to have <hi>Sold themſelves</hi> to work wickedneſſe; there is none but two in the 3 King<g ref="char:EOLhyphen"/>domes that can be compared to him: and thoſe were <hi>Bradſhaw</hi> and <hi>Cooke,</hi> who ſet a price on their Villany, and had their reward, and are gone with<g ref="char:EOLhyphen"/>out perplexing our Charity, to their own places; This <hi>Laird Wariſton</hi> was one of the ſame Robe, an Eminent Lawyer in this Kingdome, and preferred by the <hi>Committee of Eſtates,</hi> At the inſtance and pre<g ref="char:EOLhyphen"/>ſentment of the Kirk, during the late <hi>Interregnum,</hi> to be the <hi>Cuſtos</hi> or <hi>Magiſter Rotutorum,</hi> or Lord Rogu<g ref="char:EOLhyphen"/>ſter or Keeper of the Rolls: having given ſpecious proofs of his zealous fondneſſe to the Presbyterian moſt Rigid and Severeſt Diſcipline.</p>
+            <p>He was a great Confident and Privado likewiſe of the Marqueſſe of <hi>Argyles,</hi> under whoſe clientele and Patronage, he liſted himſelf, and proffered and performed his moſt officious ſervices to that mans deſignes; he being the Chieftain and ſole ſupreme Head of thoſe, who ran-counter to the intereſt of the King in this Nation; and which is not to be o<g ref="char:EOLhyphen"/>mitted, a moſt violent Enemy of the glorious and immortal Marqueſſe of <hi>Montroſſe;</hi> Nor did he faile of any obſequious inſinuations and endearments therby to carve himſelf a part in thoſe his projected ſpoyls of Loyal and Dutiful Subjects, and the <hi>Crown</hi> it ſelf.</p>
+            <p>But Providence altering the management of the
+<pb n="5" facs="tcp:179391:4"/>Government in this Kingdome, and taking it from a cunning by devolving it to a violent Uſurpation; the Kirk &amp; Committee of Eſtates, with the General Aſſembly, being altogether aboliſhed by the Eng<g ref="char:EOLhyphen"/>liſh conqueſt, which juſtly puniſhed their moſt Ty<g ref="char:EOLhyphen"/>rannical inſolence upon the Conſcience &amp; Eſtates of their fellow Subjects, by bringing upon their heads an <hi>Evil adaequate</hi> to their Crimes and Treaſons; (for what was formerly infflicted upon the <hi>Jewes,</hi> who made their Argument of <hi>Venient Romani,</hi> the Ro<g ref="char:EOLhyphen"/>mans will come, a pretence to their Murder of the <hi>Meſſiah;</hi> was anew Executed upon theſe Scots, who having made the <hi>Venient Ritus Anglicani,</hi> the Rites of the Church of <hi>England</hi> will come in among us and deſtroy the Kirk, a pretence and mask to the Rebellion againſt the Kings Authority, were now retaliated and puniſhed with the victorious Arms <hi>(Venient exercitus Anglicani)</hi> of the new founded Eng<g ref="char:EOLhyphen"/>liſh Commonwealth, which theſe very men had helped to raiſe to this formidable greatneſſe.) I ſay when this grand mutation was brought about, then did <hi>Wariſton</hi> conſult and look out for a better and ſurer intereſt, where he might beſtow his perfidious endeavours, with the greateſt profit and advantage.</p>
+            <p>For whereas he had mancipated himſelf to <hi>Argile,</hi> and linkt himſelf in a manner to him by moſt ſcele<g ref="char:EOLhyphen"/>rate and ſtrange combinations, he now eſtranged himſelf from him; but ſuffering him to continue the moſt notable and greateſt of the Kirks party he ſet up for himſelf here, with theſe Grandees of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> mounting in Degree &amp; Truſt above his former Maſter, as Mr. <hi>Thurloe</hi> did to St. <hi>John</hi>'s, and became
+<pb n="6" facs="tcp:179391:5"/>afterwards there, <hi>Olivers</hi> Scotch Secretary of State, and continued in it all along to the very time of the Reſtitution; and therefore to diſcover all his vil<g ref="char:EOLhyphen"/>lany, it will be neceſſary to deduce him in a brief Hiſtory, through the following times.</p>
+            <p>He appeared a main ſtickler firſt with that party, who oppoſed the agreement with the King at <hi>Bre<g ref="char:EOLhyphen"/>dah,</hi> and would have had his Majeſty tyed and ob<g ref="char:EOLhyphen"/>liged to more undutiful and diſloyal Conditions (though thoſe were unparalleld) before his returne into that Kingdome, in 1650. (like ſome of our States men in 1659. upon a more happy and grand Revolution:) and when that could not be hindred, the more numerous party of the Parliament pro<g ref="char:EOLhyphen"/>ving ſo honeſt, as to come to the intended conclu<g ref="char:EOLhyphen"/>ſion of that affair; yet did he and his faction ſo op<g ref="char:EOLhyphen"/>poſe the power of the Kirk to the Kings Authority, and to cry it up as ſupreme, to ſuch a diminution of Majeſty, that the King was no more then a meer ſhadow of their brightneſſe and greatneſſe, nor could exerciſe any part of the Royal Dignity with<g ref="char:EOLhyphen"/>out their approbation and allowance.</p>
+            <p>And to this tenor of deportment did the Faction continue, even after the Engliſh Army were advan<g ref="char:EOLhyphen"/>ced into <hi>Scotland,</hi> by which means ſuch miſunder<g ref="char:EOLhyphen"/>ſtandings and diviſions were ariſen among the Nobility, and fomented by <hi>Cromwell,</hi> that there was little hopes of eſcaping that ruine which ſoon after enſued. This very fellow &amp; ſome few more, ſuch as Col. <hi>Ker,</hi> and <hi>Straughan,</hi> Sir <hi>John Cheiſly,</hi> and ſome Miniſters, ſtiled the Weſtern Remonſtrants, running out into ſuch treaſonable Declaratory Expreſſions, that they would not own the Kings Quarrel and In<g ref="char:EOLhyphen"/>tereſt,
+<pb n="7" facs="tcp:179391:5"/>and that it was the cauſe of all the Evill and Troubles that at preſent afflicted the Nation, and that the King had been called in without confeſſion and ſatisfaction, and the like ſawcy Dictates, and Penance-Injunctions of this worſe then Roman Kirk.</p>
+            <p>To this treaſonable ſenſe, to avoid a defection of ſuch a conſiderable ſtrength, who would by no means ad<g ref="char:EOLhyphen"/>mit of other way, nor would joyn with the Loyal par<g ref="char:EOLhyphen"/>ty at any rate, an Anſwer was ſent to <hi>Cromwell</hi> by way of a Declaration; and thereupon enſued their lamentable and juſt defeat at <hi>Dunbar,</hi> which notwith<g ref="char:EOLhyphen"/>ſtanding that it did clearly indigitate &amp; point at this their undutifulneſſe, yet did this ſame party conti<g ref="char:EOLhyphen"/>nue in the ſame impious practiſes, even to the conſpi<g ref="char:EOLhyphen"/>ring the ſeizure of the King, (who upon ſome ſuch ob<g ref="char:EOLhyphen"/>ſcure intimation, did for a while withdraw himſelf out of their Clutches) and betraying and delivering him, as they had done his Bleſſed Father, into the hands of the Engliſh, for another rounder ſum of mo<g ref="char:EOLhyphen"/>ney, which Treaſon they would have vailed ſtill by the Covenant, to their interpretation whereof the King muſt be ſubmitted. And in this damnable In<g ref="char:EOLhyphen"/>trigue, this Laird <hi>Warrieſton</hi> had a principal hand, as by his ſucceeding actions plainly appeared.</p>
+            <p>For <hi>Edenburgh</hi> Caſtle being ſurrendred to <hi>Cromwell</hi> by his fellow Traytor <hi>Dundaſſe</hi> the Governour there<g ref="char:EOLhyphen"/>of, who had Articled for the Tranſportation and ſe<g ref="char:EOLhyphen"/>cure conveyance of all the Records and writings be<g ref="char:EOLhyphen"/>longing to the Kingdom) which were depoſited there) to <hi>Sterling,</hi> or ſome other place in the Kings poſſeſſi<g ref="char:EOLhyphen"/>on, which were contrary to the ſaid Articles detained for a while, with ſome other precious Goods and Moveables; <hi>Warrieſton,</hi> as it was belonging to his of<g ref="char:EOLhyphen"/>fice,
+<pb n="8" facs="tcp:179391:6"/>was ſent to <hi>Edenburgh</hi> to diſpute the matter, and to gain and recover the ſaid Rolls.</p>
+            <p>This advantage of nearer converſe with <hi>Cromwell</hi> proffering it ſelfe, when as before it was very dange<g ref="char:EOLhyphen"/>rous, he omitted net to proſecute; for being with a ſafe conduct admitted into that City, in ſtead of con<g ref="char:EOLhyphen"/>teſting for his Soveraignty, and his Countries right; he underhand agreed with thoſe <hi>Money Maſters,</hi> to do them what ſervice he could in facilitating their war, which being like to prove cold and froſty work in that Northern clymate, did ſadden their premature thoughts, and over credulous and haſty hopes of a full and plenary Conqueſt of that Nation.</p>
+            <p>In the mean time the Weſtern Remonſtrants grow<g ref="char:EOLhyphen"/>ing more Malapart, ſeveral of them were called to an<g ref="char:EOLhyphen"/>ſwer their bold &amp; impudent Contumelies of the Kings Authority, and that under pain of Excommunication by the better taught Kirk; and among thoſe this Gen<g ref="char:EOLhyphen"/>tleman the<g ref="char:cmbAbbrStroke">̄</g> practiſing the civil jugle at <hi>Edenburgh,</hi> with ſome others of that Tribe was ſummoned, but upon ſome conſideration, while the whole cabat of this tray<g ref="char:EOLhyphen"/>terous faction ſhould be better and more fully elucida<g ref="char:EOLhyphen"/>ted, &amp; the writings if poſſibly, as the earneſt and gloze of his Treaſon recovered; he was reſpited a while: but according to expectation, the ſaid writings being come to <hi>Sterling,</hi> he with <hi>Abernethy,</hi> the Lord <hi>Swinton</hi> and the reſt before mentioned, were ſoon after decla<g ref="char:EOLhyphen"/>red Excommunicates, and reſerved for the future ju<g ref="char:EOLhyphen"/>ſtice of the Laws.</p>
+            <p>But <hi>Warieſton</hi> eſcaped that by the wonderfull and ſucceſsful progreſſe of the Engliſh Armies (in whoſe quarters he reſolved after a ſuddden ſhort appearance at <hi>Sterling,</hi> to communicate his practiſes with his
+<pb n="9" facs="tcp:179391:6"/>Gang, and learn the Kings Councels from them, to con<g ref="char:EOLhyphen"/>tinue for the future) whoſe invasion he ſeemed to quar<g ref="char:EOLhyphen"/>rel from Chriſtian grounds, and to deſire an amicable debate according to the Scriptures and the Covenant, profeſſing with great ſhews of devotion his renuntiati<g ref="char:EOLhyphen"/>on of the Kings Intereſt, for which all theſe Evils, he ſaid, had befallen them. By which means he kept and intended to foment the former diviſions according to the inſtructions of his Treaſon by <hi>Cromwell,</hi> in that Nation.</p>
+            <p>The conſequence of which ſcelerate practiſe, being reduced by a neer conqueſt to a leſſer and particular deſigne, which was to keep the Scots now ſubdued in perpetual diſcords and miſunderſtandings, on a religi<g ref="char:EOLhyphen"/>ous, as formerly on a civil account; <hi>Warreſton</hi> was the only fit man reſolved on to proſecute the Cabel, and to hold ſides with the Remonſtrants, who had annul<g ref="char:EOLhyphen"/>led by their aſſumed pretended Authority, all that the Kirk had done and ratified in their concluſion with the King at <hi>Bredah;</hi> and by the ſame magiſterial power, Faſts and Humiliations upon that Treaſonable occaſi<g ref="char:EOLhyphen"/>on were thereby enjoyned; and this promoted on pur<g ref="char:EOLhyphen"/>poſe to make eaſie work for the Engliſh Uſurpers, who by this though partial renunciation of the King by the Scots themſelves in that quality as the ſupreme power, had the leſſe work to do towards their total abolition of it, in which this Conſpirator was mainly inſtrumen<g ref="char:EOLhyphen"/>tal in all the changes and viciſſitudes afterwards.</p>
+            <p>In the year 1652. the <hi>Juncto</hi> at <hi>Weſtminſter</hi> having made in a manner a total Conqueſt of <hi>Scotland,</hi> by their Commiſſioners deputed on that behalf, proceeded to the Union of that with this Kingdome, which having been a fruſtraneous enterpriſe in the Reigne of King <hi>James,</hi> and proving but a meer politick notion and ſpe<g ref="char:EOLhyphen"/>culation
+<pb n="10" facs="tcp:179391:7"/>was now in a kind effected. By which means they intended to aſſure that Kingdom by the ſpecious ſhews of liberty, now made a Commonwealth, from e<g ref="char:EOLhyphen"/>ver returning to its ancient Regal and Legal Govern<g ref="char:EOLhyphen"/>ment. Againſt this <hi>Warreſton,</hi> with all the Remon<g ref="char:EOLhyphen"/>ſtrants, who liked not their total deveſtiture of power, directly oppoſed themſelves; but <hi>Warreſton</hi> as employ<g ref="char:EOLhyphen"/>ed by our States to dive into the ſecrets of all that par<g ref="char:EOLhyphen"/>ty which he ſeemed to Head, and to reveal all the Ma<g ref="char:EOLhyphen"/>chinations, as well theirs or others which might be in<g ref="char:EOLhyphen"/>tended to the recovery of his Country from the ſlavery they ſuffered from thoſe Uſurpers.</p>
+            <p>That ſame Union being at laſt accompliſhed by <hi>Oli<g ref="char:EOLhyphen"/>ver,</hi> no man was more re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy to comply with the con<g ref="char:EOLhyphen"/>ſtitution of it, to that purpoſe getting himſelf returned a Member for the Parliament of the Three Common<g ref="char:EOLhyphen"/>wealths, as the eſtabliſhment then was; Thirty being allotted reſpectively for <hi>Scotland</hi> and <hi>Ireland;</hi> and in theſe Aſſemblies and Conventions, which were very frequent in theſe times, he was ſure to make one of the chief for his Nation, where he learned the knack of ca<g ref="char:EOLhyphen"/>tering for himſelf, by complying with the moſt deſtru<g ref="char:EOLhyphen"/>ctive Councels and Deſignes of the prevailing party, therewith inſinuating into their familiarity and confi<g ref="char:EOLhyphen"/>dence, by moſt vile Paraſitical officers and demerencies of their reſpects and notice of him; inſomuch that he graſped moſt of the important tranſactions of the Scotch affairs here, which he proſtituted to the will of the Uſurper, into his own management, and diſpoſal.</p>
+            <p>But the greateſt remarque of theſe his wicked Acts here, was manifeſtin the broyl betwixt <hi>Lambert</hi> and the <hi>Rump,</hi> wherein he was ſo great a Favorite of that Com<g ref="char:EOLhyphen"/>mander, that upon the erection of his Committe of Safety, this man was made Preſident thereof <hi>pro tempore,</hi>
+               <pb n="11" facs="tcp:179391:7"/>which place he diſcharged chiefly in ſerving himſelfe, and the pleaſure and will of that Dictator: but the ſtory of his fawning and moſt abject ſordidneſſe herein, is ſo largely deſcribed in a Play called <hi>the Rump,</hi> that there needs not any additional brand infamous note from this Bead roll of his impieties.</p>
+            <p>All that ſhall be ſaid further of him on that account, is, that his Devices to make inſurrections and new Troubles in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> by his labouring the Remonſtrants and that party to a defection from General <hi>Monck</hi> then advancing againſt <hi>Lambert,</hi> were ſuch ranck and peſtilent Treaſons, that the diſcovery of them ſhewed the deſperate wickedneſſe of his Heart, and made the Noble General be his remembrancer for his due reward, to the Rump, in his ſpeech to them at <hi>Weſtminster;</hi> but that, provi<g ref="char:EOLhyphen"/>dence was pleaſed to reſerve to a juſter hand, and more due in<g ref="char:EOLhyphen"/>fliction afterwards; that his original and principal guilt againſt the King might finally be puniſhed and a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enged by his Royal Juſtice.</p>
+            <p>Which hoping to avoid, he ſecretly fled out of <hi>Scotland</hi> (whe<g ref="char:EOLhyphen"/>ther he ſneaked from his greatneſſe at <hi>Weſtminſter</hi>) over into <hi>France,</hi> hoping to find ſhelter in that populous Kingdome; be<g ref="char:EOLhyphen"/>ing purſued with a Proclamation and an Act of Attainder and Confiſcation, together with the abovementioned Col. <hi>Dundaſs</hi> and others, and Condemned for his moſt notorious and evident Treaſons.</p>
+            <p>There he lurked a while till his juſt deſtiny diſcovered him to ſome of his own Nation, who made inqueſt after him, (an ac<g ref="char:EOLhyphen"/>count wherof hath been already given) &amp; ſent him with a guard over to <hi>Dover,</hi> whence he was conveyed to the <hi>Tower</hi> by His Majeſties Order, and not long after ſhipped for <hi>Edenburgh</hi> in one of the Kings <hi>Frigots</hi> in order to his Execution. At his Ar<g ref="char:EOLhyphen"/>rival he was committed priſoner to <hi>Edenburgh</hi> Caſtle, where the low ſpirited wretch kept ſuch a Howling and Whining La<g ref="char:EOLhyphen"/>mentation, affrighted with the monſtrous ſhame of his crimes, or Fear of Death, that he lookt almoſt like a Changeling, by which means his Friends (of whom he hath very few) and Relations procured a ſhort reſpit for his Life, that he might be the fitter for his death.</p>
+            <p>Upon his appearance at the Bar of the Parliament, and de<g ref="char:EOLhyphen"/>manded
+<pb n="12" facs="tcp:179391:8"/>what he had to ſay for himſelf why the ſentence ſhould not be excuted; he in a miſerable ſtrange poſture fell a deny<g ref="char:EOLhyphen"/>ing any intention of evil to the King, and that over and over again to the trouble and Din of the Judges and Hearers; then he deſired a Copy of his ſentence, which was likewiſe denyed him, as derogating from the Authority of the Parliament, whoſe wiſedome and juſtice would not admit any debate of it, and ſo he was commanded to prepare a final anſwer to the point of Execution, which yet remained to be done; and which will aſ<g ref="char:EOLhyphen"/>ſuredly overtake him, to the magnifying the Divine Juſtice, and the expiation of thoſe many pollutions this mans iniquity brought upon this Land, and to the Terrour of all evil Doers, and ſuch pernicious obſtinate Traytors for the time to come.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179391:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
